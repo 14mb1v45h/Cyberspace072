@@ -1,4 +1,6 @@
 # AI Trading Assistant for Binance
+#AUTHOR : BIVASH NAYAK
+#AUTHOR EMAIL : iambivash.bn@gmail.com
 
 ## Overview
 This project is a Python-based AI Trading Assistant designed to automate trading on the Binance cryptocurrency exchange. It uses a simple moving average crossover strategy to generate buy and sell signals for a specified trading pair (e.g., BTC/USDT) and places market orders via the Binance API. The assistant is intended for educational purposes and should be tested thoroughly on the Binance Testnet before use with real funds.
